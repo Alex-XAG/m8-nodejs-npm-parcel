@@ -1,0 +1,30 @@
+{
+  "name": "m8-nodejs-npm-webpack-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "prestart": "echo \"This is prestart\"",
+    "poststart": "echo \"This is poststart\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script-1": "echo \"script 1\"",
+    "script-2": "echo \"script 2\"",
+    "all": "npm run script-1 && npm run script-2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-XAG/m8-nodejs-npm-webpack-parcel.git"
+  },
+  "author": "Alex_XAG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-XAG/m8-nodejs-npm-webpack-parcel/issues"
+  },
+  "homepage": "https://github.com/Alex-XAG/m8-nodejs-npm-webpack-parcel#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.9.1",
+    "shortid": "^2.2.16"
+  }
+}
