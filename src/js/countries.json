@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Australia",
+    "capital": "Canbera",
+    "currency": "AUD",
+    "language": "English",
+    "population": 24970200,
+    "flag": "https://wikiway.com/upload/iblock/742/800pxFlagofAustraliasvg.png",
+    "infected": false
+  },
+  {
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "currency": "BOB",
+    "language": "Spanish, kechua, aimara, guarany",
+    "population": 10461053,
+    "flag": "https://wikiway.com/upload/iblock/5ed/800px-Flag_of_Bolivia.png",
+    "infected": true
+  },
+  {
+    "name": "United Kingdom",
+    "capital": "London",
+    "currency": "GBP",
+    "language": "English",
+    "population": 63395574,
+    "flag": "https://wikiway.com/upload/iblock/5ec/800px-Flag_of_the_United_Kingdom_svg.png",
+    "infected": false
+  }
+]
