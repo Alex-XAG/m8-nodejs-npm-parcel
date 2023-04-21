@@ -3,3 +3,18 @@
   flex-direction: column;
   gap: 10px;
 }
+button {
+  width: 150px;
+}
+textarea,
+input {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+/* 
+label {
+  display: flex;
+  flex-direction: column;
+} */

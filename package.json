@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Alex-XAG/m8-nodejs-npm-webpack-parcel#readme",
   "dependencies": {
     "joi": "^17.9.1",
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "shortid": "^2.2.16"
   },
